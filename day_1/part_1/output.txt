@@ -1,0 +1,3 @@
+2066446
+Time spent: 0.001313
+Memory usage: 4576 KB
