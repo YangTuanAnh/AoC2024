@@ -1,0 +1,3 @@
+173785482
+Time spent: 0.0014195
+Memory usage: 4520 KB
